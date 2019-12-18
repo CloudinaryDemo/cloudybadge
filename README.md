@@ -68,6 +68,10 @@
 - Transfo encodes the photo transforms submitted by RA (null otherwise)
 - VoteID is the editkey of the VIEW page voted by RA (null otherwise)
 
+#### Flow Diagram
+
+![CloudyBadge Flow](hackathon-cloudybadge.png)
+
 ### Implementation Stack
 
 #### Frontend: TBD (Vue / Nuxt / Gridsome)
