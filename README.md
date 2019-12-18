@@ -67,3 +67,13 @@
 - PhotoID is the ID of the asset in Cloudinary for the RA's uploaded photo
 - Transfo encodes the photo transforms submitted by RA (null otherwise)
 - VoteID is the editkey of the VIEW page voted by RA (null otherwise)
+
+### Implementation Stack
+
+#### Frontend: TBD (Vue / Nuxt / Gridsome)
+
+#### Backend: FaunaDB, Cloudinary (Serverless)
+
+#### Deployment: Zeit Now (Serverless)
+
+#### Other: QR Code Generator (Lib or API)
